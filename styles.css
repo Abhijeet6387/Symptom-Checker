@@ -162,8 +162,8 @@ main {
   font-size: 2.5rem;
   display: flex;
   justify-content: center;
-  color: #48435c;
-  border-bottom: solid 3px #48435c;
+  color: #1976D2;
+  border-bottom: solid 3px #1976D2;
 }
 .card p {
   font-size: 1.25rem;
@@ -171,7 +171,7 @@ main {
 }
 
 footer {
-  background-color: #48435c;
+  background-color: #1976D2;
   display: flex;
   justify-content: center;
   text-align: center;
