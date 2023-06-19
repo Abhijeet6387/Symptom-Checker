@@ -96,7 +96,7 @@
 }
 
 .button-see-results {
-  background: #9792e3;
+  background: #1976d2;
   width: 12rem;
   height: 3.4rem;
   margin: 0;
@@ -109,7 +109,7 @@
   transition: 1s;
 }
 .button-see-results:hover {
-  background: hsl(244, 59%, 63%);
+  background: #1976D2(244, 59%, 63%);
 }
 .btn-container {
   height: var(--formelement-height);
